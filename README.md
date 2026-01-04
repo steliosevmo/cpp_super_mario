@@ -1,4 +1,3 @@
-# c++_super_mario
 # Super Mario C++ Side-Scroller (SGG Engine)
 
 A 2D retro-style platformer inspired by the classic Super Mario Bros, developed in **C++** using the **Simple Game Graphics (SGG)** library. This project focuses on Object-Oriented Programming (OOP) principles, real-time physics simulation, and state management.
